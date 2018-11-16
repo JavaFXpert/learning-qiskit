@@ -6,3 +6,5 @@ Here is a site in which you may interact with a Bloch sphere and affect the quan
 
 {% embed url="https://javafxpert.github.io/grok-bloch/" %}
 
+{% embed url="https://javafxpert.github.io/grok-bloch/" %}
+
