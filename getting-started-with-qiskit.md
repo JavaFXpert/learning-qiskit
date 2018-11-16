@@ -10,7 +10,7 @@ One way to run Python programs that leverage Qiskit is to use a Jupyter notebook
 TODO: Create a Binder image that contains only the Quantum 8-Ball program. That version of the program should only use the simulator as we haven't exposed the user to obtaining IBM Q credentials.
 {% endhint %}
 
-{% embed url="https://mybinder.org/v2/gh/Qiskit/qiskit-tutorial/master?filepath=index.ipynb" caption="Quantum 8-Ball using Python and Qiskit in a Jupyter notebook on mybinder.org" %}
-
 {% embed url="https://nbviewer.jupyter.org/github/Qiskit/qiskit-tutorial/blob/master/community/hello\_world/quantum\_8ball.ipynb" caption="Quantum 8-Ball using Python and Qiskit in a Jupyter notebook" %}
+
+{% embed url="https://mybinder.org/v2/gh/Qiskit/qiskit-tutorial/master?filepath=index.ipynb" caption="Quantum 8-Ball using Python and Qiskit in a Jupyter notebook on mybinder.org" %}
 
