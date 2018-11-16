@@ -7,3 +7,9 @@ description: >-
 
 # Developing Quantum Apps with Qiskit
 
+If you'd like to know more about quantum computing itself, check out [this page](https://www.research.ibm.com/ibm-q/learn/what-is-quantum-computing/):
+
+If you're ready to get started with Qiskit, take a look at the next page and dive in:
+
+
+
