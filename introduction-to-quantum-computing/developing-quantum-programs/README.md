@@ -1,2 +1,0 @@
-# Developing quantum programs
-
