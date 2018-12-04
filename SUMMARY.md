@@ -1,7 +1,8 @@
 # Table of contents
 
-* [Developing Quantum Applications](README.md)
+* [Developing quantum applications](README.md)
 * [Playing with IBM Q Composer](playing-with-ibm-q-composer.md)
+* [Choosing your learning path](choosing-your-learning-path.md)
 * [Getting started with Qiskit](getting-started-with-qiskit.md)
 * [Understanding qubits](understanding-qubits/README.md)
   * [Representing a qubit](understanding-qubits/representing-a-qubit/README.md)
@@ -10,10 +11,41 @@
   * [Visualizing a qubit](understanding-qubits/visualizing-a-qubit/README.md)
     * [Qubit on a Bloch sphere](understanding-qubits/visualizing-a-qubit/qubit-on-a-bloch-sphere.md)
     * [Qubit on a unit circle](understanding-qubits/visualizing-a-qubit/qubit-on-a-unit-circle.md)
+  * [Measuring a qubit](understanding-qubits/measuring-a-qubit.md)
 * [Understanding quantum states](understanding-quantum-states/README.md)
   * [Evolving quantum states](understanding-quantum-states/evolving-quantum-states/README.md)
-    * [Single-qubit gates](understanding-quantum-states/evolving-quantum-states/single-qubit-gates.md)
-    * [Multi-qubit gates](understanding-quantum-states/evolving-quantum-states/multi-qubit-gates.md)
-    * [Exploring entanglement](understanding-quantum-states/evolving-quantum-states/exploring-entanglement.md)
+    * [Understanding quantum circuits](understanding-quantum-states/evolving-quantum-states/understanding-quantum-circuits.md)
+    * [Single-qubit gates](understanding-quantum-states/evolving-quantum-states/single-qubit-gates/README.md)
+      * [Pauli X gate](understanding-quantum-states/evolving-quantum-states/single-qubit-gates/pauli-x-gate.md)
+      * [Pauli Y gate](understanding-quantum-states/evolving-quantum-states/single-qubit-gates/pauli-y-gate.md)
+      * [Pauli Z gate](understanding-quantum-states/evolving-quantum-states/single-qubit-gates/pauli-z-gate.md)
+      * [Hadamard gate](understanding-quantum-states/evolving-quantum-states/single-qubit-gates/hadamard-gate.md)
+      * [Rx gate](understanding-quantum-states/evolving-quantum-states/single-qubit-gates/rx-gate.md)
+      * [Ry gate](understanding-quantum-states/evolving-quantum-states/single-qubit-gates/ry-gate.md)
+      * [Phase shift gates \(Rz, S, T\)](understanding-quantum-states/evolving-quantum-states/single-qubit-gates/phase-shift-gates-rz-s-t.md)
+    * [Multiple-qubit gates](understanding-quantum-states/evolving-quantum-states/multi-qubit-gates/README.md)
+      * [CNOT gate](understanding-quantum-states/evolving-quantum-states/multi-qubit-gates/cnot-gate.md)
+      * [SWAP gate](understanding-quantum-states/evolving-quantum-states/multi-qubit-gates/swap-gate.md)
+      * [CCNOT gate](understanding-quantum-states/evolving-quantum-states/multi-qubit-gates/ccnot-gate.md)
+      * [CSWAP gate](understanding-quantum-states/evolving-quantum-states/multi-qubit-gates/cswap-gate.md)
+  * [Exploring entanglement](understanding-quantum-states/exploring-entanglement/README.md)
+    * [Bell states](understanding-quantum-states/exploring-entanglement/bell-states.md)
+    * [GHZ state](understanding-quantum-states/exploring-entanglement/ghz-state.md)
   * [Visualizing quantum states](understanding-quantum-states/visualizing-quantum-states.md)
+* [Understanding quantum algorithms](understanding-quantum-algorithms.md)
+
+## Dirac notation starting point
+
+* [Dirac notation and single-qubit gates](dirac-notation-starting-point/dirac-notation-and-single-qubit-gates.md)
+* [Controlled gates](dirac-notation-starting-point/controlled-gates.md)
+* [Unitaries from Hamiltons](dirac-notation-starting-point/unitaries-from-hamiltons.md)
+
+## Pauli grid starting point
+
+* [Pauli grid and Clifford gates](pauli-grid-starting-point/pauli-grid-and-clifford-gates/README.md)
+  * [Hello Qiskit chapter 1](pauli-grid-starting-point/pauli-grid-and-clifford-gates/hello-qiskit-chapter-1.md)
+  * [Hello Qiskit chapter 2](pauli-grid-starting-point/pauli-grid-and-clifford-gates/hello-qiskit-chapter-2.md)
+  * [Hello Qiskit chapter 3](pauli-grid-starting-point/pauli-grid-and-clifford-gates/hello-qiskit-chapter-3.md)
+* [Non-Clifford gates](pauli-grid-starting-point/non-clifford-gates/README.md)
+  * [Hello Qiskit chapter 4](pauli-grid-starting-point/non-clifford-gates/hello-qiskit-chapter-4.md)
 

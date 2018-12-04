@@ -5,7 +5,7 @@ description: >-
   intended to help you get up to speed on Qiskit.
 ---
 
-# Developing Quantum Applications
+# Developing quantum applications
 
 If you'd like to know more about quantum computing itself, check out the following website:
 
