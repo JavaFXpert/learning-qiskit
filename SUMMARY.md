@@ -32,7 +32,9 @@
     * [Bell states](understanding-quantum-states/exploring-entanglement/bell-states.md)
     * [GHZ state](understanding-quantum-states/exploring-entanglement/ghz-state.md)
   * [Visualizing quantum states](understanding-quantum-states/visualizing-quantum-states.md)
-* [Understanding quantum algorithms](understanding-quantum-algorithms.md)
+* [Understanding basic quantum algorithms](understanding-quantum-algorithms/README.md)
+  * [Deutsch's algorithm](understanding-quantum-algorithms/deutschs-algorithm.md)
+  * [Deutsch-Jozsa algorithm](understanding-quantum-algorithms/deutsch-jozsa-algorithm.md)
 
 ## Dirac notation starting point
 
