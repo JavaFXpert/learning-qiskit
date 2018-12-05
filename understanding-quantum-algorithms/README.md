@@ -1,4 +1,4 @@
-# Understanding basic quantum algorithms
+# Exploring fundamental quantum algorithms
 
 Now that you have a solid foundation in quantum computing, let's dive into some algorithms. We'll start with basic algorithms that aren't very useful for real-world problems, but that demonstrate speedup advantages of quantum computing. The speedup for these algorithms lies in the wave nature of quantum mechanics, in that we can choreograph the interference patterns of waves to increase the probability that the correct answer will appear. This wave nature may be easily demonstrated in the double-slit experiment, where light waves form an interference pattern, as shown in the following illustration:
 
