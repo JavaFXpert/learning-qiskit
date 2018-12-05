@@ -36,6 +36,7 @@
   * [Deutsch's algorithm](understanding-quantum-algorithms/deutschs-algorithm.md)
   * [Deutsch-Jozsa algorithm](understanding-quantum-algorithms/deutsch-jozsa-algorithm.md)
   * [Bernstein-Vazirani algorithm](understanding-quantum-algorithms/bernstein-vazirani-algorithm.md)
+  * [Grover's algorithm](understanding-quantum-algorithms/grovers-algorithm.md)
 
 ## Dirac notation starting point
 
