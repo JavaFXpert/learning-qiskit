@@ -39,6 +39,7 @@
   * [Grover's algorithm](understanding-quantum-algorithms/grovers-algorithm.md)
   * [Simon's algrorithm](understanding-quantum-algorithms/simons-algrorithm.md)
   * [Shor's algorithm](understanding-quantum-algorithms/shors-algorithm.md)
+  * [Implementations on IBM Q](understanding-quantum-algorithms/implementations-on-ibm-q.md)
 
 ## Dirac notation starting point
 
