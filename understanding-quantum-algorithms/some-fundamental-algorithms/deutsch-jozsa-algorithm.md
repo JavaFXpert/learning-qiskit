@@ -15,7 +15,7 @@ The Deutsch-Jozsa algorithm, published in 1992, is a multi-qubit generalization 
 
 Here is a drawing of a Deutsch-Jozsa circuit from its [Wikipedia article](https://en.wikipedia.org/wiki/Deutsch–Jozsa_algorithm):
 
-![Deutsch&#x2013;Jozsa algorithm circuit \(from Wikipedia\)](../.gitbook/assets/618784a31f0ee8983fe191fb82c4afb4-1.png)
+![Deutsch&#x2013;Jozsa algorithm circuit \(from Wikipedia\)](../../.gitbook/assets/618784a31f0ee8983fe191fb82c4afb4-1.png)
 
 To get a working understanding of this algorithm, experiment with this Deutsch-Jozsa Algorithm notebook in the Qiskit tutorials:
 
