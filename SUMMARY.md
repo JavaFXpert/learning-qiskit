@@ -38,13 +38,14 @@
   * [Quantum algorithmic paradigms](understanding-quantum-algorithms/implementations-on-ibm-q/README.md)
     * [Quantum Fourier Transform](understanding-quantum-algorithms/implementations-on-ibm-q/algorithm-building-blocks.md)
     * [Grover's Operator](understanding-quantum-algorithms/implementations-on-ibm-q/grovers-operator.md)
-  * [Some fundamental algorithms](understanding-quantum-algorithms/some-fundamental-algorithms/README.md)
+  * [Some fundamental quantum algorithms](understanding-quantum-algorithms/some-fundamental-algorithms/README.md)
     * [Deutsch's algorithm](understanding-quantum-algorithms/some-fundamental-algorithms/deutschs-algorithm.md)
     * [Deutsch-Jozsa algorithm](understanding-quantum-algorithms/some-fundamental-algorithms/deutsch-jozsa-algorithm.md)
     * [Bernstein-Vazirani algorithm](understanding-quantum-algorithms/some-fundamental-algorithms/bernstein-vazirani-algorithm.md)
     * [Grover's algorithm](understanding-quantum-algorithms/some-fundamental-algorithms/grovers-algorithm.md)
     * [Simon's algrorithm](understanding-quantum-algorithms/some-fundamental-algorithms/simons-algrorithm.md)
     * [Shor's algorithm](understanding-quantum-algorithms/some-fundamental-algorithms/shors-algorithm.md)
+    * [Iterative phase estimation algorithm](understanding-quantum-algorithms/some-fundamental-algorithms/iterative-phase-estimation-algorithm.md)
 
 ## Dirac notation starting point
 

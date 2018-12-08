@@ -4,5 +4,5 @@ The Bernstein-Vazirani algorithm, published by Ethan Bernstein and Umesh Vaziran
 
 To get a working understanding of this algorithm, experiment with this Bernstein-Vazirani Algorithm notebook in the Qiskit tutorials:
 
-{% embed url="https://nbviewer.jupyter.org/github/Qiskit/qiskit-tutorial/blob/master/community/algorithms/bernstein\_vazirani.ipynb" caption="Bernstein-Vazirani Algorithm notebook in the Qiskit tutorials" %}
+{% embed url="https://github.com/Qiskit/qiskit-tutorial/blob/master/community/algorithms/bernstein\_vazirani.ipynb" caption="Bernstein-Vazirani Algorithm notebook in the Qiskit tutorials" %}
 
