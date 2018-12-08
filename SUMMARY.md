@@ -29,9 +29,6 @@
       * [SWAP gate](understanding-quantum-states/evolving-quantum-states/multi-qubit-gates/swap-gate.md)
       * [CCNOT gate](understanding-quantum-states/evolving-quantum-states/multi-qubit-gates/ccnot-gate.md)
       * [CSWAP gate](understanding-quantum-states/evolving-quantum-states/multi-qubit-gates/cswap-gate.md)
-  * [Exploring entanglement](understanding-quantum-states/exploring-entanglement/README.md)
-    * [Bell states](understanding-quantum-states/exploring-entanglement/bell-states.md)
-    * [GHZ state](understanding-quantum-states/exploring-entanglement/ghz-state.md)
   * [Visualizing quantum states](understanding-quantum-states/visualizing-quantum-states.md)
   * [Measuring quantum states](understanding-quantum-states/measuring-quantum-states.md)
 * [Examining quantum information science concepts](examining-quantum-information-science-concepts/README.md)
@@ -52,6 +49,17 @@
     * [Simon's algrorithm](understanding-quantum-algorithms/some-fundamental-algorithms/simons-algrorithm.md)
     * [Shor's algorithm](understanding-quantum-algorithms/some-fundamental-algorithms/shors-algorithm.md)
     * [Iterative phase estimation algorithm](understanding-quantum-algorithms/some-fundamental-algorithms/iterative-phase-estimation-algorithm.md)
+* [Examining advanced quantum information science concepts](advanced-quantum-information-science-concepts/README.md)
+  * [Entangled Measurement](advanced-quantum-information-science-concepts/entangled-measurement.md)
+  * [Finite Automata](advanced-quantum-information-science-concepts/finite-automata.md)
+  * [Multi-Qubit W State Systems](advanced-quantum-information-science-concepts/multi-qubit-w-state-systems.md)
+  * [Quantum Magic Square](advanced-quantum-information-science-concepts/quantum-magic-square.md)
+  * [Quantum Random Access Coding \(single qubit\)](advanced-quantum-information-science-concepts/quantum-random-access-coding-single-bit.md)
+  * [Quantum Random Access Coding \(two qubits\)](advanced-quantum-information-science-concepts/quantum-random-access-coding-two-qubits.md)
+  * [Topological Quantum Walks](advanced-quantum-information-science-concepts/topological-quantum-walks.md)
+  * [Vaidman Detection Test](advanced-quantum-information-science-concepts/vaidman-detection-test.md)
+* [Exploring quantum error correction](quantum-error-correction/README.md)
+  * [Repetition code for up to 15 qubits](quantum-error-correction/repetition-code-for-up-to-15-qubits.md)
 
 ## Dirac notation starting point
 
