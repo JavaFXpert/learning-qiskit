@@ -34,6 +34,8 @@
     * [GHZ state](understanding-quantum-states/exploring-entanglement/ghz-state.md)
   * [Visualizing quantum states](understanding-quantum-states/visualizing-quantum-states.md)
   * [Measuring quantum states](understanding-quantum-states/measuring-quantum-states.md)
+* [Examining quantum information science concepts](examining-quantum-information-science-concepts/README.md)
+  * [Superposition in a single qubit](examining-quantum-information-science-concepts/superposition.md)
 * [Exploring fundamental quantum algorithms](understanding-quantum-algorithms/README.md)
   * [Quantum algorithmic paradigms](understanding-quantum-algorithms/implementations-on-ibm-q/README.md)
     * [Quantum Fourier Transform](understanding-quantum-algorithms/implementations-on-ibm-q/algorithm-building-blocks.md)
