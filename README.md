@@ -1,4 +1,4 @@
-# History repeating itself
+# History is repeating itself
 
 In the late 1940s, computers filled rooms, had limited amounts of memory \(bits\), and instruction sets for programming them were very unique. 
 
