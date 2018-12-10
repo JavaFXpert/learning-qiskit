@@ -8,8 +8,3 @@ Qiskit is short for Quantum Information Science Kit, and its home is the [Qiskit
 
 
 
-
-
-  
-
-

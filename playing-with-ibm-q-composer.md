@@ -1,4 +1,4 @@
-# Playing with IBM Q Composer
+# Learning with IBM Q Composer
 
 One option for experimenting with quantum computing is to use the IBM Q Composer. With the Composer you can create quantum circuits and run them on an IBM Q quantum simulator or on a real IBM Q quantum computer.
 

@@ -1,7 +1,7 @@
 # Table of contents
 
 * [History repeating itself](README.md)
-* [Playing with IBM Q Composer](playing-with-ibm-q-composer.md)
+* [Learning with IBM Q Composer](playing-with-ibm-q-composer.md)
 * [Choosing your learning path](choosing-your-learning-path.md)
 * [Getting started with Qiskit](getting-started-with-qiskit/README.md)
   * [Running your first quantum program](getting-started-with-qiskit/running-your-first-quantum-program.md)
@@ -30,8 +30,10 @@
       * [SWAP gate](understanding-quantum-states/evolving-quantum-states/multi-qubit-gates/swap-gate.md)
       * [CCNOT gate](understanding-quantum-states/evolving-quantum-states/multi-qubit-gates/ccnot-gate.md)
       * [CSWAP gate](understanding-quantum-states/evolving-quantum-states/multi-qubit-gates/cswap-gate.md)
-  * [Visualizing quantum states](understanding-quantum-states/visualizing-quantum-states.md)
   * [Measuring quantum states](understanding-quantum-states/measuring-quantum-states.md)
+  * [Quantum computing visualizations](understanding-quantum-states/visualizing-quantum-states-1/README.md)
+    * [Visualizing a Quantum Circuit](understanding-quantum-states/visualizing-quantum-states-1/visualizing-a-quantum-circuit.md)
+    * [Plotting quantum states and measurements](understanding-quantum-states/visualizing-quantum-states-1/plotting-quantum-states-and-measurements.md)
 * [Examining quantum information science concepts](examining-quantum-information-science-concepts/README.md)
   * [Superposition](examining-quantum-information-science-concepts/superposition.md)
   * [Amplitude and phase](examining-quantum-information-science-concepts/amplitude-and-phase.md)
@@ -61,6 +63,10 @@
   * [Vaidman Detection Test](advanced-quantum-information-science-concepts/vaidman-detection-test.md)
 * [Exploring quantum error correction](quantum-error-correction/README.md)
   * [Repetition code for up to 15 qubits](quantum-error-correction/repetition-code-for-up-to-15-qubits.md)
+* [Addressing noise and errors in quantum systems](addressing-noise-and-errors-in-quantum-systems/README.md)
+  * [Relaxation and Decoherence](addressing-noise-and-errors-in-quantum-systems/relaxation-and-decoherence.md)
+  * [Quantum State Tomography](addressing-noise-and-errors-in-quantum-systems/quantum-state-tomography.md)
+  * [Quantum Process Tomography](addressing-noise-and-errors-in-quantum-systems/quantum-process-tomography.md)
 
 ## Dirac notation starting point
 
