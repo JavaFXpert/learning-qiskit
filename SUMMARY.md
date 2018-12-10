@@ -35,6 +35,7 @@
   * [Quantum computing visualizations](understanding-quantum-states/visualizing-quantum-states-1/README.md)
     * [Visualizing a Quantum Circuit](understanding-quantum-states/visualizing-quantum-states-1/visualizing-a-quantum-circuit.md)
     * [Plotting quantum states and measurements](understanding-quantum-states/visualizing-quantum-states-1/plotting-quantum-states-and-measurements.md)
+  * [Summary of quantum operations](understanding-quantum-states/summary-of-quantum-operations.md)
 * [Examining quantum information science concepts](examining-quantum-information-science-concepts/README.md)
   * [Superposition](examining-quantum-information-science-concepts/superposition.md)
   * [Amplitude and phase](examining-quantum-information-science-concepts/amplitude-and-phase.md)
