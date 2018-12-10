@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Developing quantum applications](README.md)
+* [History repeating itself](README.md)
 * [Playing with IBM Q Composer](playing-with-ibm-q-composer.md)
 * [Choosing your learning path](choosing-your-learning-path.md)
 * [Getting started with Qiskit](getting-started-with-qiskit/README.md)
