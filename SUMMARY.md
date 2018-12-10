@@ -54,6 +54,7 @@
     * [Simon's algrorithm](understanding-quantum-algorithms/some-fundamental-algorithms/simons-algrorithm.md)
     * [Shor's algorithm](understanding-quantum-algorithms/some-fundamental-algorithms/shors-algorithm.md)
     * [Iterative phase estimation algorithm](understanding-quantum-algorithms/some-fundamental-algorithms/iterative-phase-estimation-algorithm.md)
+* [Leveraging Qiskit Aqua for near-term quantum applications](leveraging-qiskit-aqua-for-near-term-quantum-applications.md)
 * [Examining advanced quantum information science concepts](advanced-quantum-information-science-concepts/README.md)
   * [Entangled Measurement](advanced-quantum-information-science-concepts/entangled-measurement.md)
   * [Finite Automata](advanced-quantum-information-science-concepts/finite-automata.md)
