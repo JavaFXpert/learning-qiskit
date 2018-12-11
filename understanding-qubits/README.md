@@ -11,3 +11,6 @@ Classical and quantum mechanics differ in two important ways:
 
 We'll explore each of these differences by way of simple but surprising experiments.
 
+## States and Measurements
+
+First let's explore the relationship between states and measurements by considering an electron with spin $$\sigma$$ and an apparatus $$A$$ to measure the spin and display (record) the result. The apparatus has a 'this end up' label to show how it is oriented.
