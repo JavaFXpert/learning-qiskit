@@ -23,7 +23,7 @@ Before the apparatus interacts with \(measures\) the spin, the display is blank.
 
 **Insert figure of experiment 1**
 
-Consider the following simple experiment. We point the apparatus in, say, the z-direction and measure the spin; then we set the apparatus to neutral and measure the same spin again. The result $$\sigma = +1$$ would be followed by $$\sigma = +1$$, and similarly if we initially measured $$\sigma = -1$$. Our initial measurement would be verified for all future measurements. We say that the apparatus _prepares_ the spin in a state, and further measurements _confirm_ the state.
+Consider the following simple experiment. We point the apparatus in, say, the z-direction and measure the spin; then we set the apparatus to neutral and measure the same spin again. The result $$\sigma = +1$$ would be followed by $$\sigma = +1$$ , and similarly if we initially measured $$\sigma = -1$$. Our initial measurement would be verified for all future measurements. We say that the apparatus _prepares_ the spin in a state, and further measurements _confirm_ the state.
 
 **Insert figure of experiment 2**
 
