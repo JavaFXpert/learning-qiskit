@@ -15,8 +15,6 @@ We'll explore each of these differences by way of simple but surprising experime
 
 First let's explore the relationship between states and measurements by considering an electron with spin $$\sigma$$ and an apparatus $$A$$ to measure the spin and display \(record\) the result. The apparatus has a 'this end up' label to show how it is oriented.
 
-
-
 **Insert figure of the setup**
 
 Before the apparatus interacts with \(measures\) the spin, the display is blank. After it measures $$\sigma$$, the display shows +1 or -1.

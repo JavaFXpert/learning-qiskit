@@ -42,6 +42,7 @@
   * [Entanglement](examining-quantum-information-science-concepts/entanglement.md)
   * [Testing entanglement](examining-quantum-information-science-concepts/testing-entanglement.md)
   * [Quantum Teleportation and Superdense Coding](examining-quantum-information-science-concepts/quantum-teleportation-and-superdense-coding.md)
+* [Leveraging Qiskit Aer simulators](leveraging-qiskit-aer-simulators.md)
 * [Exploring fundamental quantum algorithms](understanding-quantum-algorithms/README.md)
   * [Quantum algorithmic paradigms](understanding-quantum-algorithms/implementations-on-ibm-q/README.md)
     * [Quantum Fourier Transform](understanding-quantum-algorithms/implementations-on-ibm-q/algorithm-building-blocks.md)
