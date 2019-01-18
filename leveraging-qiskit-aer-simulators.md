@@ -1,2 +1,0 @@
-# Leveraging Qiskit Aer simulators
-

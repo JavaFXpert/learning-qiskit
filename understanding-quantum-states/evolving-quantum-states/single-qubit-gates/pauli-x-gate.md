@@ -1,6 +1,0 @@
-# Pauli X gate
-
-
-
-
-

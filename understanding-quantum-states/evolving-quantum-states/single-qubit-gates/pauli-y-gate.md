@@ -1,4 +1,0 @@
-# Pauli Y gate
-
-
-

@@ -1,4 +1,0 @@
-# Representing a qubit
-
-
-

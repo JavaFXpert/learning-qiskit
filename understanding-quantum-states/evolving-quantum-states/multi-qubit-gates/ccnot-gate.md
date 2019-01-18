@@ -1,4 +1,0 @@
-# CCNOT gate
-
-
-

@@ -4,7 +4,7 @@ In the late 1940s, computers filled rooms, had limited amounts of memory \(bits\
 
 ![ENIAC computer circa 1947](.gitbook/assets/dbbb69c35dd9bb03fae576c666703241.jpg)
 
-It’s very interesting and exciting that history is repeating itself! In the late 2010s, radically new kinds of computers known as quantum computers are being built that fill rooms, have limited amounts of quantum bits \(qubits\), and their instruction sets are certainly unique.
+It’s very interesting and exciting that history is repeating itself! In the late 2010s, radically new kinds of computers known as quantum computers are being built that fill rooms, have limited amounts of quantum bits \([qubits](https://en.wikipedia.org/wiki/Qubit)\), and their instruction sets are certainly unique.
 
 ![IBM Research quantum computer circa 2017](.gitbook/assets/61c341993232dc89ef1ba6c7c0c33f61.png)
 

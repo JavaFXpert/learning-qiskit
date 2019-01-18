@@ -1,4 +1,0 @@
-# Measuring a qubit
-
-
-

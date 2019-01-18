@@ -1,4 +1,0 @@
-# SWAP gate
-
-
-
