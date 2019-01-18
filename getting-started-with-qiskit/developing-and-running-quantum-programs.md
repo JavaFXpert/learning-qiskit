@@ -6,5 +6,3 @@ The Qiskit framework leverages Python, and one way to run Python programs is to 
   * **Note:** Inserting `!pip install qiskit` in the first cell of a notebook \(or uncommenting if it is already there\) installs Qiskit into the user's Colaboratory environment for that notebook, so there is a bit of a delay and lots of output during this process.
 * **To run locally:** Install the Qiskit foundational libraries in a Python environment using the instructions on the [Qiskit Terra site](https://qiskit.org/terra). Clone or download the desired notebooks, running them as a Jupyter notebook.
 
-
-
