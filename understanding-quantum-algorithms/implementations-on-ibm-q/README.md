@@ -6,7 +6,5 @@ Quantum algorithms leverage some common building blocks, such as the _Quantum Fo
 
 Take a few minutes to peruse the paper, noting how these algorithms have been implemented on IBM quantum computers.
 
-{% embed url="https://arxiv.org/pdf/1804.03719.pdf" caption="Quantum Algorithm Implementations for Beginners arxiv.org/abs/1804.03719" %}
-
 Let's take a look a couple of common quantum algorithmic paradigms before examining some of the fundamental quantum computing algorithms.
 
