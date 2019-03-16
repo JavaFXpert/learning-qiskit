@@ -9,7 +9,6 @@
   * [Multi-qubit quantum circuits](getting-started-with-qiskit/multi-qubit-quantum-circuits.md)
   * [Entangling qubits with a CNOT gate](getting-started-with-qiskit/entangling-qubits-with-a-cnot-gate.md)
   * [Rotating around the Bloch sphere](getting-started-with-qiskit/more-quantum-logic-gates.md)
-  * [Understanding unitary matrices](getting-started-with-qiskit/understanding-unitary-matrices.md)
   * [More Qiskit features and running on real hardware](getting-started-with-qiskit/running-your-first-quantum-program.md)
   * [Summary of quantum operations](getting-started-with-qiskit/summary-of-quantum-operations.md)
 * [Quantum computing visualizations](visualizing-quantum-states-1/README.md)
