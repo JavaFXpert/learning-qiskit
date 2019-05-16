@@ -4,5 +4,5 @@ Now that you've had some experience using Qiskit Terra, it would be helpful to g
 
 {% embed url="https://github.com/JavaFXpert/qiskit4devs-workshop-notebooks/blob/master/grover\_search\_party.ipynb" caption=" Using Grover Search for Boolean Satisfiability guided exercise" %}
 
-
+For another taste of capabilities in the Qiskit Aqua library, check out this [article on VQE](https://medium.com/qiskit/the-variational-quantum-eigensolver-43f7718c2747) \(Variational Quantum Eigensolver\). VQE is a quantum computing algorithm that is well suited for solving certain classes of problems, such as modeling molecules and combinatorial optimization, using quantum computers available in the near term.
 
